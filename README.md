@@ -5,6 +5,14 @@ It detects your **current location**, fetches weather data from **OpenWeatherMap
 
 ---
 
+## 📸 Screenshots (Example)
+*(Replace with actual screenshots of your app)*
+- Loading state (detecting city)
+- Weather displayed with animation
+- Clear, Rainy, Cloudy examples
+
+---
+
 ## ✨ Features
 - 🌍 Auto-detects current city using **GPS & reverse geocoding**
 - ☁️ Fetches live weather data from **OpenWeatherMap API**
@@ -79,18 +87,5 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-## 📸 Screenshots (Example)
-*(Replace with actual screenshots of your app)*
-- Loading state (detecting city)
-- Weather displayed with animation
-- Clear, Rainy, Cloudy examples
 
----
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-Developed by **Aniket More** 🚀  
