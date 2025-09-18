@@ -4,11 +4,13 @@ AuroraWeather is a sleek Flutter-based **mobile weather app** that provides real
 
 ---
 
-## 📸 Screenshots (Example)
-*(Replace with actual screenshots of your app)*
-- Loading state (detecting city)
-- Weather displayed with animation
-- Clear, Rainy, Cloudy examples
+## 📸 Screenshot
+![Screenshot_2025-09-18-22-44-20-200_com example auroraweather](https://github.com/user-attachments/assets/9cb0509d-9272-49d7-aa90-675fae358eeb)
+
+---
+
+## 📸 Demo
+Watch this demo video -> https://drive.google.com/file/d/1WcBtur8Ssh2B1psRzai7Fx4R6KHmUXHR/view?usp=sharing
 
 ---
 
