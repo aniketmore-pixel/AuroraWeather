@@ -4,8 +4,13 @@ AuroraWeather is a sleek Flutter-based **mobile weather app** that provides real
 
 ---
 
-## 📸 Screenshot
-![Screenshot_2025-09-18-22-44-20-200_com example auroraweather](https://github.com/user-attachments/assets/9cb0509d-9272-49d7-aa90-675fae358eeb)
+## 📸 Screenshot  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9cb0509d-9272-49d7-aa90-675fae358eeb" 
+       alt="AuroraWeather Screenshot" 
+       width="300" />
+</p>
 
 ---
 
