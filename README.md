@@ -1,7 +1,6 @@
 # AuroraWeather 
 
-AuroraWeather is a sleek Flutter-based **mobile weather app** that provides real-time weather updates with beautiful Lottie animations.  
-It detects your **current location**, fetches weather data from **OpenWeatherMap**, and displays it in a clean, user-friendly interface.
+AuroraWeather is a sleek Flutter-based **mobile weather app** that provides real-time weather updates with beautiful Lottie animations. It detects your **current location**, fetches weather data from **OpenWeatherMap**, and displays it in a clean, user-friendly interface.
 
 ---
 
